@@ -1,0 +1,2 @@
+go to client the npm start for frontend
+and for server got to sever and type npm run watch
